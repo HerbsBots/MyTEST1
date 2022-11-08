@@ -1,0 +1,153 @@
+html, body {
+    background-color:#5f9ea0;
+    opacity: 1;
+}
+a {
+        display: inline;
+        text-decoration: none;
+        padding: 10px;
+        margin: 5px;
+        color: #800020;
+}
+.link {
+    text-align: right;
+}
+.title {
+    text-align: justify;
+    border: 3px solid #0000;
+    border-bottom: 5px solid;
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    height:50px;
+    width: 50%;
+    background-color: #800020;
+}
+img {
+    width: 140px;
+    border-radius: 70px;
+    float: left;
+    margin-right: 30px;
+}
+.tai {
+        height: 200px;
+        width: 50%;
+        padding-top: 20x;
+        padding-right: 15px;
+        padding-bottom: 20px;
+        padding-left: 50px; 
+        border-radius: 55px ;
+        text-align: justify;
+        font-weight: bold;
+        font-size: 15px;
+        font-family: roboto;
+        background-color: #808080;
+
+
+}
+section {
+    text-align: center;
+}
+.button {
+    background-color: #808080;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border-radius: 70px;
+    font-weight: 900;
+    font-family: roboto;
+}
+.button1 {border-radius: 50%;    border: 3px solid #800000; border-style: double;
+}
+.button2 {border-radius: 50%;    border: 3px solid #800000; border-style: double;
+}
+.button3 {border-radius: 50%;    border: 3px solid #800000; border-style: double;
+}
+.button4 {border-radius: 50%;    border: 3px solid #800000; border-style: double;
+}
+.button5 {border-radius: 50%;     border: 3px solid #800000; border-style: double;
+}
+  
+  .box {
+    float: left;
+    width: 33.33%;
+    padding: 117px;
+    border-radius: 15px 50px
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+    width: 50%;
+ }
+video{
+    border-radius: 5px 10px;
+}
+#headM{
+	background-color: #808080;
+    text-align: center;
+    height: 150px;
+    width: 98%;
+    padding: 100px;
+    padding-top: 20x;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px; 
+     border-radius: 70px ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: roboto;
+    font weight:bolder;
+    color: #800020;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 118px;
+    background-color: #808080;
+    border-radius: 75px;
+}
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    color: 13px #808080;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto; 
+}
+body {text-align:center;}
+
+table,th, td {
+    border: 1px solid #808080;
+    border-collapse: collapse;
+    border-radius: 10px;
+  }
+  th, td {
+      background-color: #800020;
+      border-radius: 18px;
+      border-style: double;
+      padding: 15px;
+      padding: top 300px;
+      padding-bottom:50px ;
+      padding-right:30px ;
+      padding-left:40px ;
+  }
+  table {
+      border-spacing: 30px;
+  }
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#808080;
+    color:#0000;
+    text-align: center;
+  }
